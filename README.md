@@ -11,7 +11,7 @@ A simple web application built with the MERN (MongoDB, Express, React, Node.js) 
 ## Installation
 1. Clone the repository or download the source code.
 ```bash
-git clone [repository_url]
+git clone https://github.com/silentwraith03/Expense-Tracker-MERN.git
 ```
 2. Navigate to the project directory.
 ```bash
